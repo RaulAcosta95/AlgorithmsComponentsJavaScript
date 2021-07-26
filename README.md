@@ -1,0 +1,2 @@
+# AlgorithmsComponentsJavaScript
+Componentes independientes para ejecutar algoritmos
